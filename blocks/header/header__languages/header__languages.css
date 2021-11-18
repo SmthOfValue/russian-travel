@@ -1,0 +1,10 @@
+.header__languages {
+  padding-top: 18px;
+}
+
+@media screen and (max-width: 425px) {
+
+  .header__languages {
+    padding-top: 14px;
+}
+}
