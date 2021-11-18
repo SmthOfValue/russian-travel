@@ -8,7 +8,7 @@
   }
 
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
 
   .places {
   width: 928px;
@@ -17,7 +17,7 @@
 }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
 
   .places {
   width: 720px;
@@ -26,7 +26,7 @@
 }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
   .places {
   width: 480px;
