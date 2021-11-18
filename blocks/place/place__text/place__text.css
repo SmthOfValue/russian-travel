@@ -1,16 +1,7 @@
 .place__text {
-
+  width: 100%;
 }
 
-
-
-@media screen and (max-width: 1024px) {
-
-  .place__text {
-    width: 100%;
-}
-
-}
 @media screen and (max-width: 525px) {
 
   .place__text {
