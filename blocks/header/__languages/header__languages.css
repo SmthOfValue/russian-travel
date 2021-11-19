@@ -1,0 +1,15 @@
+.header__languages {
+  padding-top: 18px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 425px) {
+
+  .header__languages {
+    padding-top: 14px;
+  }
+}

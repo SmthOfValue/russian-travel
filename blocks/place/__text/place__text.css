@@ -1,0 +1,11 @@
+.place__text {
+  width: 100%;
+}
+
+@media screen and (max-width: 525px) {
+
+  .place__text {
+    justify-self: center;
+    width: 288px;
+  }
+}

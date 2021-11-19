@@ -13,7 +13,7 @@
   .place {
     gap: 48px 32px;
     grid-template-columns: 440px auto;
-}
+  }
 }
 
 
@@ -22,7 +22,7 @@
   .place {
     gap: 48px 28px;
     grid-template-columns: 340px auto;
-}
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -30,13 +30,12 @@
   .place {
     gap: 32px;
     grid-template-columns: 480px;
-}
+  }
 }
 
 @media screen and (max-width: 525px) {
 
   .place {
-    gap: 32px;
     grid-template-columns: 320px;
-}
+  }
 }

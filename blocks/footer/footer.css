@@ -5,7 +5,7 @@
   width: 92.5%;
   padding: 92px 0 24px 0;
   flex-direction: row;
-  }
+}
 
 
 
@@ -13,8 +13,7 @@
 
   .footer {
     width: 90.625%;
-
-}
+  }
 }
 
 @media screen and (max-width: 1023px) {
@@ -22,8 +21,7 @@
   .footer {
     width: 93.75%;
     padding: 88px 0 24px 0;
-
-}
+  }
 }
 @media screen and (max-width: 767px) {
 
@@ -31,6 +29,5 @@
     width: 90%;
     flex-direction: column;
     padding: 64px 0 24px 0;
-
-}
+  }
 }

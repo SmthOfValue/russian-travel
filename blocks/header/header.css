@@ -11,30 +11,27 @@
 
   .header {
     width: 90.625%;
-
-}
+  }
 }
 
 @media screen and (max-width: 1023px) {
 
   .header {
-  width: 93.75%;
-
-}
+    width: 93.75%;
+  }
 }
 
 @media screen and (max-width: 767px) {
 
   .header {
-  width: 90%;
-  padding-top: 16px;
-}
+    width: 90%;
+    padding-top: 16px;
+  }
 }
 
 @media screen and (max-width: 425px) {
 
   .header {
     width: 90%;
-    padding-top: 16px;
-}
+  }
 }

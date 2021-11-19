@@ -2,21 +2,19 @@
   margin: 0 auto;
   max-width: 1184px;
   padding-top: 92px;
+}
+
+
+@media screen and (max-width: 1023px) {
+
+  .cover {
+    padding-top: 90px;
   }
+}
 
+@media screen and (max-width: 767px) {
 
-  @media screen and (max-width: 1023px) {
-
-    .cover {
-
-      padding-top: 90px;
+  .cover {
+    padding-top: 66px;
   }
-  }
-
-  @media screen and (max-width: 767px) {
-
-    .cover {
-
-      padding-top: 66px;
-  }
-  }
+}
